@@ -12,6 +12,6 @@
 
 ## Fase II
 
-[Presentacion de visualizacion](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Presetaci%C3%B3n%20de%20Visualizacion.pdf)
+[Presentacion de tecnicas (regresion bayesiana)](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Presetaci%C3%B3n%20de%20Visualizacion.pdf)
 
-[Preguntas de visualizacion](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Preguntas%20Visualizaci%C3%B3n.pdf)
+[Preguntas de tecnicas (regresion bayesiana)](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Preguntas%20Visualizaci%C3%B3n.pdf)
