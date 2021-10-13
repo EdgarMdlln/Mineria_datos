@@ -18,4 +18,6 @@
 
 [Practica 2](https://github.com/EdgarMdlln/Mineria_datos/blob/main/Visualizacion_Equipo7.ipynb)
 
-[Segundo avance del PIA](https://github.com/EdgarMdlln/Mineria_datos/blob/main/AvancePIA_II_002_Equipo7.ipynb)
+[Segundo avance del PIA](https://github.com/EdgarMdlln/Mineria_datos/blob/main/AvanceII_PIA_correccion.ipynb)
+
+[Ejercicio ecnica de mineria](https://github.com/EdgarMdlln/Mineria_datos/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
