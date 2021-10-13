@@ -20,4 +20,4 @@
 
 [Segundo avance del PIA](https://github.com/EdgarMdlln/Mineria_datos/blob/main/AvanceII_PIA_correccion.ipynb)
 
-[Ejercicio ecnica de mineria](https://github.com/EdgarMdlln/Mineria_datos/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
+[Ejercicio tecnica de mineria](https://github.com/EdgarMdlln/Mineria_datos/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
