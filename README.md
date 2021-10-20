@@ -21,3 +21,7 @@
 [Segundo avance del PIA](https://github.com/EdgarMdlln/Mineria_datos/blob/main/AvanceII_PIA_correccion.ipynb)
 
 [Ejercicio tecnica de mineria](https://github.com/EdgarMdlln/Mineria_datos/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
+
+## Fase III
+
+[Entrega del notebook](https://github.com/EdgarMdlln/Mineria_datos/blob/main/NotebookEquipo7.ipynb)
