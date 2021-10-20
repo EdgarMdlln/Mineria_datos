@@ -24,4 +24,4 @@
 
 ## Fase III
 
-[Entrega del notebook](https://github.com/EdgarMdlln/Mineria_datos/blob/main/NotebookEquipo7.ipynb)
+[Entrega del notebook](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/PIA_III_Equipo7.ipynb)
