@@ -25,3 +25,5 @@
 ## Fase III
 
 [Entrega del notebook](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/PIA_III_Equipo7.ipynb)
+
+[Proyecto final](https://github.com/EdgarMdlln/Mineria_datos/blob/main/Quebrando%20la%20quiebra%20poster.pdf)
